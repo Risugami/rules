@@ -1,6 +1,7 @@
 Rules of #Risucraft
 -------------------
 
+0. Voiced users and OPs have the right to ignore, subvert and/or bend any of the rules to their will, including but not limited to this one.
 1. Use a http://gist.github.com/ or http://paste.ubuntu.com/ for error reports. Never paste them in channel.
 2. No texttalk; slang is allowed in moderation. Text talk does not include more common internet expressions such as lol and wtf. It does include using letters that are not words as words, such as "u" to mean "you", and also includes words such as "plox" and "plz". If it's less than three letters and it's a word added to the dictionary since computers, it probably breaks this rule.
 3. Do not argue with the modders over something regarding the code in the game. They will almost always prove you wrong and it is a waste of everyone's time.
